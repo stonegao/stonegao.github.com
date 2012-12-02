@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[BitHacker]]></title>
+  <title><![CDATA[Lambda Hacker]]></title>
   <link href="http://stonegao.github.com/atom.xml" rel="self"/>
   <link href="http://stonegao.github.com/"/>
-  <updated>2012-10-29T23:01:12+08:00</updated>
+  <updated>2012-12-03T00:07:18+08:00</updated>
   <id>http://stonegao.github.com/</id>
   <author>
     <name><![CDATA[Stone Gao]]></name>
